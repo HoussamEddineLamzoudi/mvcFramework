@@ -2,8 +2,8 @@
 
 class posts
 {
-    public function edit($id)
+    public function __construct()
     {
-        // echo "test from post(" .$id. ") in model";
+        $this->db = new database;
     }
 }

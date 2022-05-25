@@ -2,7 +2,7 @@
 
     
     define("APPROOT", dirname(dirname(__FILE__)));
-    define("URLROOT", 'http://http://localhost/my_php/mvcFramework/');
+    define("URLROOT", 'http://localhost/my_php/mvcFramework/');
     define("APPNAME", 'mvcFramework');
 
 

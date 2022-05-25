@@ -8,12 +8,6 @@ class post extends controller
     }
     public function index()
     {
-        // echo "uuu_post";
     }
 
-    public function edit($id)
-    {
-
-        $this->postModel->edit($id);
-    }
 }
